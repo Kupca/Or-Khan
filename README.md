@@ -1,0 +1,2 @@
+# Or-Khan
+Kupca.az Azərbaycanın daşınmaz əmlak portalıdır. Sayt digər əmlak saytlarından yeni tikililər, köhnə tikililər, həyət evi, torpaq, obyektlər, bağ evi, qaraj, villalar, xaricdə əmlak, biznes mərkəzləri və digər daşınmaz əmlak elanlarını toplayıb, istifadəçilərinə bu elanlar üzrə rahat axtarış imkanı yaradır. Elanları yerləşmə yeri, əmlakın növü, elanın tarixi, çıxarış, kupça və digər mütəlif parametrlər üzrə sıralamaq və tapmaq mümkündür. http://kupca.az 
